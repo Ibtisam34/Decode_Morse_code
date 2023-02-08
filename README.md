@@ -33,7 +33,7 @@
 - [❓ FAQ](#faq)
 - [📝 License](#license)
 
-# 📖 [CMS_Bookstore] <a name="about-project"></a>
+# 📖 [DECODE_MORSE_CODE] <a name="about-project"></a>
 
 **[DECODE_MORSE_CODE]** Decode a Morese code message using Ruby. Morse Decode is a method used in telecommunication to decode symbol characters as standardized sequences of two different signal durations, called dots and dashes, or dits and dahs.[3][4] Morse code is named after Samuel Morse, one of the inventors of the telegraph.
 
